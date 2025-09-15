@@ -1,0 +1,1 @@
+ Voici un jeu NON TERMINÉ sur les zombies, où l’on doit suivre une histoire tout en essayant de survivre. Le gameplay utilise des fusils, et je me suis bien amusé à expérimenter avec les shaders dans ce projet.
