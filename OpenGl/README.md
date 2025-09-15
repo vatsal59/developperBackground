@@ -1,0 +1,1 @@
+Durant mon cours d’infographie à l’école, j’ai eu la chance de coder différents types de shaders, notamment des shaders de fragment, vertex, tessellation, geometry, et bien d’autres. Cette expérience m’a permis de mieux comprendre le rendu graphique et d’explorer les techniques avancées pour améliorer les visuels de mes projets de jeux.
