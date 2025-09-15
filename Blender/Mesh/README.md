@@ -1,0 +1,1 @@
+je me suis ammuser a faire des animations et des meshs pour pouvoir le utiliser dans mes jeux videos.

@@ -1,0 +1,1 @@
+je me suis ammuser a faire des shader varier avec shaderGraph sur blender avec le system de node
